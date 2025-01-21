@@ -1,10 +1,10 @@
 # RPL2
 
 Kelompok 3 - RPL 2
-Adam Febriansyah
-Alif Athillah Ramadhan
-Nadilatika Safitri
-Rasyieddin Yapinto
+1. Adam Febriansyah
+2. Alif Athillah Ramadhan
+3. Nadilatika Safitri
+4. Rasyieddin Yapinto
 
 LINK FIGMA
 
